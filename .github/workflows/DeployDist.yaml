@@ -37,4 +37,4 @@ jobs:
               run: npm ci
 
             - name: Run deploy
-              run: echo "Deployed successfully"
+              run: echo "Deployed successfully!"
